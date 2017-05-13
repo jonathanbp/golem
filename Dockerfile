@@ -1,7 +1,7 @@
 # Shamelessly copied mostly from https://github.com/justinribeiro/dockerfiles/blob/master/chrome-headless/Dockerfile
 FROM  debian:sid
 LABEL name="chrome-headless with nodejs"
-LABEL maintainer="Jonathan Bunde-Pedersen <jonathan@cc.au.dk>"
+LABEL maintainer="Jonathan Bunde-Pedersen <jonathan@cs.au.dk>"
 LABEL version="1.0"
 LABEL description="Google Chrome Headless in a container with Node"
 
